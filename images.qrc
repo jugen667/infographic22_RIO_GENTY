@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>IMG/AFRIQUE.png</file>
+        <file>IMG/AMERIQUE.png</file>
+        <file>IMG/ASIE.png</file>
+        <file>IMG/EARTH.png</file>
+        <file>IMG/EUROPE.png</file>
+        <file>IMG/OCEANIE.png</file>
+        <file>IMG/WORLD.png</file>
+        <file>IMG/PAG_DROITE.png</file>
+        <file>IMG/PAG_GAUCHE.png</file>
+        <file>IMG/an-bee.png</file>
+        <file>IMG/an-coc.png</file>
+        <file>IMG/an-cow.png</file>
+        <file>IMG/an-dog.png</file>
+        <file>IMG/an-rat.png</file>
+        <file>IMG/an-wolf.png</file>
+        <file>IMG/blanc.png</file>
+        <file>IMG/bc.png</file>
+        <file>IMG/bas.png</file>
+        <file>IMG/About_page.png</file>
+        <file>IMG/More_info.png</file>
+        <file>IMG/BACKGROUND.png</file>
+        <file>infographic_extinction-main/extinct_animals.csv</file>
+        <file>IMG/Question.png</file>
+        <file>IMG/fond_img.png</file>
+        <file>IMG/Game_bc.png</file>
+        <file>IMG/croco_die.png</file>
+        <file>IMG/croco.png</file>
+        <file>IMG/diplo_die.png</file>
+        <file>IMG/diplo.png</file>
+        <file>IMG/bouffe_carni.png</file>
+        <file>IMG/bouffe_herbi.png</file>
+    </qresource>
+</RCC>
